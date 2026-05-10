@@ -1,2 +1,3 @@
 # MLAlgorithms
-It consists the all the ML Algorithms 
+Machine Learning (ML) is a type of artificial intelligence that allows computers to learn from data and make predictions or decisions automatically. ML algorithms are mainly of three types: supervised learning, unsupervised learning, and reinforcement learning. Supervised learning uses labeled data for tasks like prediction and classification using algorithms such as Linear Regression, Logistic Regression, and Random Forest. Unsupervised learning finds hidden patterns in unlabeled data using algorithms like K-Means clustering and PCA. Reinforcement learning helps systems learn through rewards and penalties, commonly used in robotics and gaming. Deep learning, a part of ML, uses neural networks such as CNNs, RNNs, and Transformers for complex tasks like image recognition and language processing.
+
